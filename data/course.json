@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "14ef3b3d-9ce0-395e-c757-4e92920fbf5d",
+      "3fc9b4ae-d4a4-5879-951d-b8c2d33565d1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Japanese Politics and Society",
+  "course_description": "This course is designed for students seeking a fundamental understanding of Japanese history, politics, culture, and the economy. \"Raw Fish 101\" (as it is often labeled) combines lectures, seminar discussion, small-team case studies, and Web page construction exercises, all designed to shed light on contemporary Japan.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.543",
+  "primary_course_number": "17.541",
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
